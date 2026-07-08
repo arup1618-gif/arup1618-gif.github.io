@@ -1,11 +1,6 @@
 ---
 layout: null
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Arup Datta - Home</title>
 <style>
   /* This section controls the colors and layout */
   body {
@@ -103,15 +98,13 @@ layout: null
     margin-bottom: 10px;
   }
 </style>
-</head>
-<body>
 
 <!-- TOP NAVIGATION BAR -->
 <div class="navbar">
   <a href="#home">Home</a>
   <a href="#cv">CV</a>
-  <a href="#notes">Mathematical Notes</a>
   <a href="#events">Conferences, Workshops & Schools</a>
+  <a href="#notes">Mathematical Notes</a>
 </div>
 
 <!-- MAIN CONTENT CONTAINER -->
@@ -206,5 +199,3 @@ layout: null
   </ul>
 
 </div>
-</body>
-</html>
