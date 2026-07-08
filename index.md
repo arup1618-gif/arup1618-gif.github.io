@@ -117,7 +117,6 @@ layout: null
         School of Mathematics<br>
         International Centre for Theoretical Sciences (ICTS) - TIFR<br>
         Bengaluru, Karnataka, India<br>
-        Phone: +91-9366810821<br>
         Email: arup.datta[at]icts.res.in
       </p>
       <p>I am a Ph.D. student at the School of Mathematics in the International Centre for Theoretical Sciences (ICTS), Bengaluru.</p>
