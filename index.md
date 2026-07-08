@@ -189,10 +189,10 @@ layout: null
     <li><strong>Complex Analysis</strong>
       <ul><li>📝 Notes coming soon</li></ul>
     </li>
-    <li><strong>Problem Solving Techniques in Analysis</strong></li>
-    <li><strong>Probability Theory</strong>
+        <li><strong>Probability Theory</strong>
       <ul><li>📝 Notes coming soon</li></ul>
     </li>
+    <li><strong>Problem Solving Techniques in Analysis</strong></li>
   </ul>
 
 </div>
