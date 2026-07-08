@@ -100,11 +100,13 @@ layout: null
 </style>
 
 <!-- TOP NAVIGATION BAR -->
+<!-- TOP NAVIGATION BAR -->
 <div class="navbar">
   <a href="#home">Home</a>
   <a href="#cv">CV</a>
   <a href="#events">Conferences, Workshops & Schools</a>
   <a href="#notes">Mathematical Notes</a>
+  <a href="personal.html">Beyond Math</a>
 </div>
 
 <!-- MAIN CONTENT CONTAINER -->
