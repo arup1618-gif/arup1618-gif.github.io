@@ -69,6 +69,7 @@ layout: null
   h3 {
     font-size: 22px;
     color: #8458B3;
+    margin-top: 30px;
   }
   p {
     margin-bottom: 15px;
@@ -109,7 +110,7 @@ layout: null
 <div class="navbar">
   <a href="#home">Home</a>
   <a href="#cv">CV</a>
-  <a href="#notes">Courses & Lecture Notes</a>
+  <a href="#notes">Courses & Notes</a>
   <a href="#events">Conferences, Workshops & Schools</a>
 </div>
 
@@ -166,7 +167,9 @@ layout: null
   </ul>
 
   <!-- NOTES SECTION -->
-  <h2 id="notes">Courses & Lecture Notes</h2>
+  <h2 id="notes">Courses & Notes</h2>
+  
+  <h3>Courses</h3>
   <ul>
     <li><strong>Advanced Topics Course (Topological groups and manifolds)</strong>
       <ul><li><a href="manifolds/">📝 View Notes on Manifolds</a></li></ul>
@@ -189,10 +192,17 @@ layout: null
     <li><strong>Complex Analysis</strong>
       <ul><li>📝 Notes coming soon</li></ul>
     </li>
-        <li><strong>Probability Theory</strong>
+    <li><strong>Problem Solving Techniques in Analysis</strong></li>
+    <li><strong>Probability Theory</strong>
       <ul><li>📝 Notes coming soon</li></ul>
     </li>
-    <li><strong>Problem Solving Techniques in Analysis</strong></li>
+  </ul>
+
+  <h3>Special Topics</h3>
+  <ul>
+    <li><strong>p-adic Fields</strong>
+      <ul><li>📝 Notes coming soon</li></ul>
+    </li>
   </ul>
 
 </div>
