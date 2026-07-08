@@ -17,7 +17,7 @@ layout: null
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    font-size: 18px; /* INCREASED: Base font size made larger */
+    font-size: 18px;
   }
   .navbar {
     background-color: #8458B3; /* Purple Pain for the top bar */
@@ -27,7 +27,7 @@ layout: null
     color: white;
     text-decoration: none;
     margin-right: 25px;
-    font-size: 18px; /* INCREASED */
+    font-size: 18px;
     font-weight: bold;
   }
   .navbar a:hover {
@@ -53,13 +53,13 @@ layout: null
     border-radius: 4px;
   }
   h1 {
-    font-size: 34px; /* INCREASED */
+    font-size: 34px;
     margin-top: 10px;
     margin-bottom: 20px;
     color: #8458B3; /* Purple Pain for your name */
   }
   h2 {
-    font-size: 26px; /* INCREASED */
+    font-size: 26px;
     color: #8458B3; /* Purple Pain for section headers */
     border-bottom: 2px solid #8458B3;
     padding-bottom: 5px;
@@ -67,7 +67,7 @@ layout: null
     margin-bottom: 20px;
   }
   h3 {
-    font-size: 22px; /* INCREASED */
+    font-size: 22px;
     color: #8458B3;
   }
   p {
@@ -76,7 +76,7 @@ layout: null
   .cv-table {
     width: 100%;
     border-collapse: collapse;
-    font-size: 18px; /* INCREASED */
+    font-size: 18px;
   }
   .cv-table td {
     padding: 6px 0;
@@ -109,8 +109,8 @@ layout: null
 <div class="navbar">
   <a href="#home">Home</a>
   <a href="#cv">CV</a>
-  <a href="#notes">Coursework & Notes</a>
-  <a href="#events">Events</a>
+  <a href="#notes">Courses & Lecture Notes</a>
+  <a href="#events">Conferences, Workshops & Schools</a>
 </div>
 
 <!-- MAIN CONTENT CONTAINER -->
@@ -148,7 +148,7 @@ layout: null
     </tr>
   </table>
 
-  <h3>Research Project</h3>
+  <h3>Project</h3>
   <p><strong>Dirichlet’s Theorem on the Infinitude of Primes</strong></p>
   <ul>
     <li><a href="dirichlet-project.pdf">📄 Read Project Report (PDF)</a></li>
@@ -166,13 +166,10 @@ layout: null
   </ul>
 
   <!-- NOTES SECTION -->
-  <h2 id="notes">PhD Coursework & Lecture Notes</h2>
+  <h2 id="notes">Courses & Lecture Notes</h2>
   <ul>
     <li><strong>Advanced Topics Course (Topological groups and manifolds)</strong>
       <ul><li><a href="manifolds/">📝 View Notes on Manifolds</a></li></ul>
-    </li>
-    <li><strong>Probability Theory</strong>
-      <ul><li>📝 Notes coming soon</li></ul>
     </li>
     <li><strong>Algebra</strong>
       <ul><li>📝 Notes coming soon</li></ul>
@@ -193,6 +190,9 @@ layout: null
       <ul><li>📝 Notes coming soon</li></ul>
     </li>
     <li><strong>Problem Solving Techniques in Analysis</strong></li>
+    <li><strong>Probability Theory</strong>
+      <ul><li>📝 Notes coming soon</li></ul>
+    </li>
   </ul>
 
 </div>
