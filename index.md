@@ -10,83 +10,96 @@ layout: null
   /* This section controls the colors and layout */
   body {
     font-family: Georgia, "Times New Roman", serif;
-    /* Sky blue to light blue transitional gradient */
-    background: linear-gradient(to bottom right, #87CEEB, #e0f2fe);
+    /* Ice Cold to Freeze Purple to Medium Purple */
+    background: linear-gradient(to bottom right, #a0d2eb, #e5eaf5, #d0bdf4);
     background-attachment: fixed; /* Keeps the gradient smooth while scrolling */
-    color: #000;
+    color: #111; /* Slightly softer than pure black for easier reading */
     margin: 0;
     padding: 0;
-    line-height: 1.5;
+    line-height: 1.6;
+    font-size: 18px; /* INCREASED: Base font size made larger */
   }
   .navbar {
-    background-color: #777; /* Gray top bar */
-    padding: 8px 20px;
+    background-color: #8458B3; /* Purple Pain for the top bar */
+    padding: 12px 20px;
   }
   .navbar a {
     color: white;
     text-decoration: none;
     margin-right: 25px;
-    font-size: 15px;
+    font-size: 18px; /* INCREASED */
+    font-weight: bold;
   }
   .navbar a:hover {
     text-decoration: underline;
   }
   .container {
     max-width: 1100px;
-    margin: 20px auto;
+    margin: 30px auto;
     padding: 0 20px;
   }
   .header-flex {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
   }
   .header-left {
-    max-width: 70%;
+    max-width: 68%;
   }
   .header-right img {
-    max-width: 250px;
-    border: 1px solid #ccc;
+    max-width: 260px;
+    border: 3px solid #8458B3; /* Adds a matching border to your photo */
+    border-radius: 4px;
   }
   h1 {
-    font-size: 22px;
+    font-size: 34px; /* INCREASED */
     margin-top: 10px;
     margin-bottom: 20px;
+    color: #8458B3; /* Purple Pain for your name */
   }
   h2 {
-    font-size: 18px;
-    border-bottom: 1px solid #ccc;
+    font-size: 26px; /* INCREASED */
+    color: #8458B3; /* Purple Pain for section headers */
+    border-bottom: 2px solid #8458B3;
     padding-bottom: 5px;
-    margin-top: 30px;
-    margin-bottom: 15px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+  h3 {
+    font-size: 22px; /* INCREASED */
+    color: #8458B3;
   }
   p {
-    font-size: 15px;
     margin-bottom: 15px;
   }
   .cv-table {
     width: 100%;
     border-collapse: collapse;
-    font-size: 15px;
+    font-size: 18px; /* INCREASED */
   }
   .cv-table td {
-    padding: 4px 0;
+    padding: 6px 0;
     vertical-align: top;
   }
   .cv-date {
-    width: 160px;
+    width: 170px;
+    font-weight: bold;
+    color: #444;
   }
   a {
-    color: #000;
+    color: #8458B3; /* Links match the theme */
+    font-weight: bold;
+  }
+  a:hover {
+    color: #111;
   }
   ul {
     margin-top: 5px;
     padding-left: 20px;
-    font-size: 15px;
   }
   li {
-    margin-bottom: 6px;
+    margin-bottom: 10px;
   }
 </style>
 </head>
