@@ -105,7 +105,7 @@ layout: null
   <a href="#cv">Education</a>
   <a href="#events">Conferences, Workshops & Schools</a>
   <a href="#notes">Mathematical Notes</a>
-  <a href="personal.html">Personal</a>
+  <a href="personal.html">Beyond Maths</a>
 </div>
 
 <!-- MAIN CONTENT CONTAINER -->
