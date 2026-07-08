@@ -24,7 +24,8 @@ My primary interest lies in the study of Lie groups and their discrete subgroups
 * **2016 – 2021:** Integrated M.Sc. in Mathematics, Tripura University, Suryamaninagar *(Percentage: 90.1)*
 
 ### Research Project
-* **Dirichlet’s Theorem on the Infinitude of Primes** | *Supervisor: T. N. Venkataramana*
+* **Dirichlet’s Theorem on the Infinitude of Primes**
+  * [📄 Read Project Report (PDF)](dirichlet-project.pdf)
   * *Abstract:* The objective of this project is to prove Dirichlet's theorem on the infinitude of primes. Along the way, we will study Dirichlet L-functions and explore the orthogonality relations of characters, which play a crucial role in the proof.
 
 ---
@@ -41,20 +42,20 @@ My primary interest lies in the study of Lie groups and their discrete subgroups
 
 ## PhD Coursework & Lecture Notes
 
-* **Advanced Topics Course (Topological groups and manifolds)** | *Instructor: T. N. Venkataramana*
+* **Advanced Topics Course (Topological groups and manifolds)**
   * [📝 View Notes on Manifolds](manifolds/)
-* **Probability Theory** | *Instructor: Manjunath Krishnapur*
+* **Probability Theory**
   * [📝 Notes coming soon](#)
-* **Algebra** | *Instructor: T. N. Venkataramana*
+* **Algebra**
   * [📝 Notes coming soon](#)
-* **Analysis 1 (Measure theory)** | *Instructor: Siva Athreya*
+* **Analysis 1 (Measure theory)**
   * [📝 Notes coming soon](#)
-* **Topology** | *Instructor: Pranav Pandit*
+* **Topology**
   * [📝 Notes coming soon](#)
-* **Algebra 2 (Field, Galois, and Representation theory)** | *Instructor: T. N. Venkataramana*
+* **Algebra 2 (Field, Galois, and Representation theory)**
   * [📝 Notes coming soon](#)
-* **Functional Analysis** | *Instructor: Pranav Pandit*
+* **Functional Analysis**
   * [📝 Notes coming soon](#)
-* **Complex Analysis** | *Instructor: Rukmini Dey*
+* **Complex Analysis**
   * [📝 Notes coming soon](#)
-* **Problem Solving Techniques in Analysis** | *Instructor: Siva Athreya*
+* **Problem Solving Techniques in Analysis**
