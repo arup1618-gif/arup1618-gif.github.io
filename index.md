@@ -125,11 +125,11 @@ layout: null
   <table class="cv-table">
     <tr>
       <td class="cv-date">2024 – Present</td>
-      <td><strong>Ph.D. in Mathematics</strong>, International Centre for Theoretical Sciences - TIFR, Bengaluru</em></td>
+      <td><strong>Ph.D. in Mathematics</strong>, International Centre for Theoretical Sciences - TIFR, Bengaluru<em> </em></td>
     </tr>
     <tr>
       <td class="cv-date">2016 – 2021</td>
-      <td><strong>Integrated M.Sc. in Mathematics</strong>, Tripura University, Suryamaninagar</em></td>
+      <td><strong>Integrated M.Sc. in Mathematics</strong>, Tripura University, Suryamaninagar,em> </em></td>
     </tr>
   </table>
 
