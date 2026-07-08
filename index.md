@@ -130,8 +130,8 @@ layout: null
     </div>
   </div>
 
-  <!-- CV SECTION -->
-  <h2 id="cv">Short CV</h2>
+<!-- EDUCATION SECTION -->
+  <h2 id="cv">Education</h2>
   <table class="cv-table">
     <tr>
       <td class="cv-date">2024 – Present</td>
