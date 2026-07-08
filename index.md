@@ -10,7 +10,9 @@ layout: null
   /* This section controls the colors and layout */
   body {
     font-family: Georgia, "Times New Roman", serif;
-    background-color: #fdfaf0; /* Pale beige color like the screenshot */
+    /* Sky blue to light blue transitional gradient */
+    background: linear-gradient(to bottom right, #87CEEB, #e0f2fe);
+    background-attachment: fixed; /* Keeps the gradient smooth while scrolling */
     color: #000;
     margin: 0;
     padding: 0;
@@ -125,11 +127,11 @@ layout: null
   <table class="cv-table">
     <tr>
       <td class="cv-date">2024 – Present</td>
-      <td><strong>Ph.D. in Mathematics</strong>, International Centre for Theoretical Sciences - TIFR, Bengaluru<em> </em></td>
+      <td><strong>Ph.D. in Mathematics</strong>, International Centre for Theoretical Sciences - TIFR, Bengaluru</td>
     </tr>
     <tr>
       <td class="cv-date">2016 – 2021</td>
-      <td><strong>Integrated M.Sc. in Mathematics</strong>, Tripura University, Suryamaninagar,em> </em></td>
+      <td><strong>Integrated M.Sc. in Mathematics</strong>, Tripura University, Suryamaninagar</td>
     </tr>
   </table>
 
