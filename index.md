@@ -149,6 +149,20 @@ layout: null
     <li><em>Abstract:</em> The objective of this project is to prove Dirichlet's theorem on the infinitude of primes. Along the way, we will study Dirichlet L-functions and explore the orthogonality relations of characters, which play a crucial role in the proof.</li>
   </ul>
 
+  <!-- AWARDS SECTION -->
+  <h2>Scholarships & Awards</h2>
+  <ul>
+    <li><strong>ISHAN UDAY</strong> Special Scholarship Scheme for North Eastern Region (2016 – 2021)</li>
+  </ul>
+
+  <!-- MENTORSHIP SECTION -->
+  <h2>Mentorship Experience</h2>
+  <ul>
+    <li><strong>Oct – Nov 2022:</strong> Mentor, Online Foundation Course in Mathematics (OFCM), MTTS Trust</li>
+    <li><strong>Jun – Jul 2021:</strong> Mentor, Mathematics Training and Talent Search Programme (MTTS)</li>
+    <li><strong>Oct 2020:</strong> Mentor, Online Foundation Course in Mathematics (OFCM), MTTS Trust</li>
+  </ul>
+
   <!-- EVENTS SECTION -->
   <h2 id="events">Conferences, Workshops & Schools</h2>
   <ul>
