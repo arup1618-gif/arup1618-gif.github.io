@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+<style>
+  /* This hides the repository name and GitHub profile link on the left side */
+  header h1, header .view {
+    display: none !important;
+  }
+</style>
 # MANIFOLDS
 
 <div style="font-size: 16px; font-style: italic; color: #555; background-color: #f4f4f8; padding: 15px; border-left: 4px solid #228B22; margin-bottom: 25px; border-radius: 4px;">
