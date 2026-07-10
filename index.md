@@ -1,6 +1,10 @@
 ---
 layout: null
 ---
+<!-- MathJax Script for rendering LaTeX math symbols -->
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 <style>
   /* This section controls the colors and layout */
   body {
@@ -66,6 +70,12 @@ layout: null
     color: #8458B3;
     margin-top: 30px;
   }
+  h4 {
+    font-size: 19px;
+    color: #444;
+    margin-bottom: 5px;
+    margin-top: 20px;
+  }
   p {
     margin-bottom: 15px;
   }
@@ -95,7 +105,18 @@ layout: null
     padding-left: 20px;
   }
   li {
-    margin-bottom: 10px;
+    margin-bottom: 8px;
+  }
+  .ack-box {
+    font-size: 16px;
+    font-style: italic;
+    color: #555;
+    background-color: #f4f4f8;
+    padding: 10px;
+    border-left: 4px solid #228B22; /* Green border for the acknowledgment */
+    margin-bottom: 15px;
+    margin-top: 10px;
+    border-radius: 4px;
   }
 </style>
 
@@ -175,12 +196,110 @@ layout: null
 
   <!-- NOTES SECTION -->
   <h2 id="notes">Mathematical Notes</h2>
+
+  <!-- CHEVALLEY NOTES -->
+  <h3>Theory of Lie Groups (Claude Chevalley)</h3>
+  <div class="ack-box">
+    <strong>Acknowledgment:</strong> The proofs and exposition in these sections were unpacked and refined through highly valuable discussions with Sam K Mathew (International Centre for Theoretical Sciences, Bengaluru). I am deeply grateful for his collaborative insights.
+  </div>
   
-  <h3>Core Subjects</h3>
+  <h4>Chapter: The Classical Linear Groups</h4>
   <ul>
-    <li><strong>Advanced Topics Course (Topological groups and manifolds)</strong>
-      <ul><li><a href="manifolds/">📝 View Notes on Manifolds</a></li></ul>
+    <li>0. Summary</li>
+    <li>§I. THE FULL LINEAR GROUP AND SOME OF ITS SUBGROUPS</li>
+    <li>§II. THE EXPONENTIAL OF A MATRIX</li>
+    <li>§III. HERMITIAN PRODUCT</li>
+    <li>§IV. HERMITIAN MATRICES</li>
+    <li>§V. REPRESENTATION OF $GL(n,\mathbb{C})$ AS A PRODUCT SPACE</li>
+    <li>§VI. QUATERNIONS</li>
+    <li>§VII. SYMPLECTIC GEOMETRY</li>
+    <li>§VIII. THE LINEAR SYMPLECTIC GROUPS</li>
+  </ul>
+
+  <h4>Chapter: Topological Groups</h4>
+  <ul>
+    <li>0. Summary</li>
+    <li>§I. DEFINITION OF A TOPOLOGICAL GROUP
+      <ul>
+        <li>Examples of topological groups</li>
+        <li>Subgroups of a topological group</li>
+        <li>Products of topological groups</li>
+      </ul>
     </li>
+  </ul>
+
+  <h4>Chapter: Compact Lie Groups and Their Representations</h4>
+  <ul>
+    <li>0. Summary</li>
+    <li>§I. GENERAL NOTIONS</li>
+    <li>§II. REPRESENTATIONS OF COMPACT LIE GROUPS</li>
+    <li>§III. OPERATIONS ON REPRESENTATIONS
+      <ul>
+        <li>The star representation</li>
+        <li>The addition of representations</li>
+        <li>The Kronecker product</li>
+        <li>A remark on the representation $P_1 \times P_2^{*}$</li>
+      </ul>
+    </li>
+    <li>§IV. SCHUR'S LEMMA</li>
+    <li>§V. ORTHOGONALITY RELATIONS</li>
+    <li>§VI. THE CHARACTERS</li>
+    <li>§VII. THE REPRESENTATIVE RING</li>
+    <li>§VIII. THE ALGEBRAIC STRUCTURE OF THE REPRESENTATIVE RING</li>
+    <li>§IX. TOPOLOGICAL STRUCTURE OF THE ASSOCIATED GROUP</li>
+    <li>§X. EXAMPLES</li>
+    <li>§XI. THE MAIN APPROXIMATION THEOREM</li>
+    <li>§XII. FIRST APPLICATIONS OF THE MAIN APPROXIMATION THEOREM</li>
+    <li>§XIII. COMPACT ABELIAN GROUPS</li>
+  </ul>
+
+  <!-- WARNER NOTES -->
+  <h3 style="margin-top: 40px;">Foundations of Differentiable Manifolds and Lie Groups (Frank W. Warner)</h3>
+  <div class="ack-box">
+    <strong>Acknowledgment:</strong> The proofs and exposition in these sections were unpacked and refined through highly valuable discussions with Sam K Mathew (International Centre for Theoretical Sciences, Bengaluru). I am deeply grateful for his collaborative insights.
+  </div>
+
+  <h4>1. MANIFOLDS</h4>
+  <ul>
+    <li>Preliminaries</li>
+    <li>Differentiable Manifolds</li>
+    <li>The Second Axiom of Countability</li>
+    <li>Tangent Vectors and Differentials</li>
+    <li>Submanifolds, Diffeomorphisms, and the Inverse Function Theorem</li>
+    <li>Implicit Function Theorems</li>
+    <li>Vector Fields</li>
+    <li>Distributions and the Frobenius Theorem</li>
+    <li>Exercises</li>
+  </ul>
+
+  <h4>2. TENSORS AND DIFFERENTIAL FORMS</h4>
+  <ul>
+    <li>Tensor and Exterior Algebras</li>
+    <li>Tensor Fields and Differential Forms</li>
+    <li>The Lie Derivative</li>
+    <li>Differential Ideals</li>
+    <li>Exercises</li>
+  </ul>
+
+  <h4>3. LIE GROUPS</h4>
+  <ul>
+    <li>Lie Groups and Their Lie Algebras</li>
+    <li>Homomorphisms</li>
+    <li>Lie Subgroups</li>
+    <li>Coverings</li>
+    <li>Simply Connected Lie Groups</li>
+    <li>Exponential Map</li>
+    <li>Continuous Homomorphisms</li>
+    <li>Closed Subgroups</li>
+    <li>The Adjoint Representation</li>
+    <li>Automorphisms and Derivations of Bilinear Operations and Forms</li>
+    <li>Homogeneous Manifolds</li>
+    <li>Exercises</li>
+  </ul>
+
+  <!-- OTHER COURSE NOTES -->
+  <h3 style="margin-top: 40px;">Other Core Subjects & Special Topics</h3>
+  <ul>
     <li><strong>Algebra</strong>
       <ul><li>📝 Notes coming soon</li></ul>
     </li>
@@ -203,10 +322,6 @@ layout: null
     <li><strong>Probability Theory</strong>
       <ul><li>📝 Notes coming soon</li></ul>
     </li>
-  </ul>
-
-  <h3>Special Topics</h3>
-  <ul>
     <li><strong>p-adic Fields</strong>
       <ul><li>📝 Notes coming soon</li></ul>
     </li>
