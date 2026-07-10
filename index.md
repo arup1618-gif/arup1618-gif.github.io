@@ -97,7 +97,6 @@ layout: null
   }
 </style>
 
-<!-- TOP NAVIGATION BAR -->
 <div class="navbar">
   <a href="index.html">Home</a>
   <a href="index.html#cv">Education</a>
@@ -106,7 +105,6 @@ layout: null
   <a href="personal.html">Beyond Maths</a>
 </div>
 
-<!-- MAIN CONTENT CONTAINER -->
 <div class="container" id="home">
   
   <div class="header-flex">
@@ -127,7 +125,6 @@ layout: null
     </div>
   </div>
 
-  <!-- EDUCATION SECTION -->
   <h2 id="cv">Education</h2>
   <table class="cv-table">
     <tr>
@@ -147,13 +144,11 @@ layout: null
     <li><em>Abstract:</em> The objective of this project is to prove Dirichlet's theorem on the infinitude of primes. Along the way, we will study Dirichlet L-functions and explore the orthogonality relations of characters, which play a crucial role in the proof.</li>
   </ul>
 
-  <!-- AWARDS SECTION -->
   <h2>Scholarships & Awards</h2>
   <ul>
     <li><strong>ISHAN UDAY</strong> Special Scholarship Scheme for North Eastern Region (2016 – 2021)</li>
   </ul>
 
-  <!-- MENTORSHIP SECTION -->
   <h2>Mentorship Experience</h2>
   <ul>
     <li><strong>Oct – Nov 2022:</strong> Mentor, Online Foundation Course in Mathematics (OFCM), MTTS Trust</li>
@@ -161,9 +156,9 @@ layout: null
     <li><strong>Oct 2020:</strong> Mentor, Online Foundation Course in Mathematics (OFCM), MTTS Trust</li>
   </ul>
 
-  <!-- EVENTS SECTION -->
   <h2 id="events">Conferences, Workshops & Schools</h2>
   <ul>
+    <li><strong>06 - 10 Jul 2026:</strong> Automorphic forms: Arithmetic and Representation Theoretical Aspects, ICTS Bengaluru</li>
     <li><strong>Nov - Dec 2020:</strong> Online Teachers Enrichment Workshop "Linear Algebra and its Applications", NCM (TIFR and IIT Bombay)</li>
     <li><strong>May - Jun 2020:</strong> Visiting Student's Research Programme (VSRP), TIFR Mumbai</li>
     <li><strong>Jan - Feb 2020:</strong> Winter School on Mathematics for M.Sc. students, ISI, North-East Centre, Tezpur</li>
