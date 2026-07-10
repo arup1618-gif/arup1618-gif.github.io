@@ -99,10 +99,10 @@ layout: null
 
 <!-- TOP NAVIGATION BAR -->
 <div class="navbar">
-  <a href="#home">Home</a>
-  <a href="#cv">Education</a>
-  <a href="#events">Conferences, Workshops & Schools</a>
-  <a href="#notes">Mathematical Notes</a>
+  <a href="index.html">Home</a>
+  <a href="index.html#cv">Education</a>
+  <a href="index.html#events">Conferences & Schools</a>
+  <a href="notes.html">Mathematical Notes</a>
   <a href="personal.html">Beyond Maths</a>
 </div>
 
@@ -169,48 +169,6 @@ layout: null
     <li><strong>Jan - Feb 2020:</strong> Winter School on Mathematics for M.Sc. students, ISI, North-East Centre, Tezpur</li>
     <li><strong>Jul 2019:</strong> International Conference on Recent Advances in Mathematics and its Applications (ICRAMA), Tripura University</li>
     <li><strong>2018, 2019, 2020:</strong> Mathematics Training and Talent Search Programme (MTTS)</li>
-  </ul>
-
-  <!-- NOTES SECTION -->
-  <h2 id="notes">Mathematical Notes</h2>
-  
-  <h3>Theory of Lie Groups (Claude Chevalley)</h3>
-  <ul>
-    <li><a href="chevalley.html">📝 View Notes on Classical & Topological Groups</a></li>
-  </ul>
-
-  <h3>Foundations of Differentiable Manifolds and Lie Groups (Frank W. Warner)</h3>
-  <ul>
-    <li><a href="warner.html">📝 View Notes on Manifolds, Tensors, and Lie Groups</a></li>
-  </ul>
-
-  <h3>Other Core Subjects & Special Topics</h3>
-  <ul>
-    <li><strong>Algebra</strong>
-      <ul><li>📝 Notes coming soon</li></ul>
-    </li>
-    <li><strong>Analysis 1 (Measure theory)</strong>
-      <ul><li>📝 Notes coming soon</li></ul>
-    </li>
-    <li><strong>Topology</strong>
-      <ul><li>📝 Notes coming soon</li></ul>
-    </li>
-    <li><strong>Algebra 2 (Field, Galois, and Representation theory)</strong>
-      <ul><li>📝 Notes coming soon</li></ul>
-    </li>
-    <li><strong>Functional Analysis</strong>
-      <ul><li>📝 Notes coming soon</li></ul>
-    </li>
-    <li><strong>Complex Analysis</strong>
-      <ul><li>📝 Notes coming soon</li></ul>
-    </li>
-    <li><strong>Problem Solving Techniques in Analysis</strong></li>
-    <li><strong>Probability Theory</strong>
-      <ul><li>📝 Notes coming soon</li></ul>
-    </li>
-    <li><strong>p-adic Fields</strong>
-      <ul><li>📝 Notes coming soon</li></ul>
-    </li>
   </ul>
 
 </div>
