@@ -10,7 +10,7 @@ layout: null
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    font-size: 18px;
+    font-size: 16px; /* Changed from 18px to standard 16px */
   }
   .navbar {
     background-color: #8458B3; 
@@ -20,7 +20,7 @@ layout: null
     color: white;
     text-decoration: none;
     margin-right: 25px;
-    font-size: 18px;
+    font-size: 16px; /* Changed to match body text */
     font-weight: bold;
   }
   .navbar a:hover {
@@ -46,13 +46,13 @@ layout: null
     border-radius: 4px;
   }
   h1 {
-    font-size: 34px;
+    font-size: 32px; /* Scaled down slightly */
     margin-top: 10px;
     margin-bottom: 20px;
     color: #8458B3; 
   }
   h2 {
-    font-size: 26px;
+    font-size: 24px; /* Scaled down slightly */
     color: #8458B3; 
     border-bottom: 2px solid #8458B3;
     padding-bottom: 5px;
@@ -60,7 +60,7 @@ layout: null
     margin-bottom: 20px;
   }
   h3 {
-    font-size: 22px;
+    font-size: 20px; /* Scaled down slightly */
     color: #8458B3;
     margin-top: 30px;
   }
@@ -70,7 +70,7 @@ layout: null
   .cv-table {
     width: 100%;
     border-collapse: collapse;
-    font-size: 18px;
+    font-size: 16px; /* Changed to match body text */
   }
   .cv-table td {
     padding: 6px 0;
